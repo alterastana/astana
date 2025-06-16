@@ -1,0 +1,7 @@
+streamlit
+numpy
+Pillow
+joblib
+scikit-learn
+lightgbm
+tensorflow==2.12.0
